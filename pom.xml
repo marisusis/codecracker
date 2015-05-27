@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.spacegeek224</groupId>
   <artifactId>codecracker</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.0</version>
   <name>codecracker</name>
   <description>CodeCracker</description>
   <build>
