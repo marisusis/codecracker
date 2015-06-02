@@ -25,8 +25,15 @@ public class CodeCrackerMain {
 		}
 		
 		//Print out individual characters
+		/*for (int i = 0; i < wordl; i++) {
+			out(Integer.toString(i));
+		}*/
+		outln("");
 		for (int i = 0; i < wordl; i++) {
+			out(Integer.toString(i) + "|");
+			outln(String.valueOf(wordc[i]));
 		}
+		outln("");
 	}
 
 	public static void outln(String s) {
